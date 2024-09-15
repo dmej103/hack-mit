@@ -42,7 +42,9 @@
     "@radix-ui/react-toast": "^1.1.5",
     "@radix-ui/react-toggle": "^1.0.3",
     "@radix-ui/react-tooltip": "^1.0.7",
+    "@tryterra/terra-ui": "^0.2.0",
     "class-variance-authority": "^0.7.0",
+    "clerk": "^0.8.3",
     "clsx": "^2.0.0",
     "cmdk": "^0.2.0",
     "convex": "^1.15.0",
@@ -53,6 +55,7 @@
     "react-hook-form": "^7.47.0",
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7",
+    "terra-api": "^1.4.5",
     "zod": "^3.22.4"
   },
   "devDependencies": {
