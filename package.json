@@ -15,7 +15,7 @@
   "dependencies": {
     "@clerk/clerk-react": "^4.25.2",
     "@hookform/resolvers": "^3.3.2",
-    "@radix-ui/react-accordion": "^1.1.2",
+    "@radix-ui/react-accordion": "^1.2.0",
     "@radix-ui/react-alert-dialog": "^1.0.5",
     "@radix-ui/react-aspect-ratio": "^1.0.3",
     "@radix-ui/react-avatar": "^1.0.4",
@@ -47,12 +47,12 @@
     "clerk": "^0.8.3",
     "clsx": "^2.0.0",
     "cmdk": "^0.2.0",
-    "convex": "^1.15.0",
+    "convex": "^1.16.0",
     "date-fns": "^2.30.0",
     "punycode": "^2.3.1",
     "react": "^18.2.0",
     "react-day-picker": "^8.9.1",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-hook-form": "^7.47.0",
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7",
@@ -61,8 +61,8 @@
   },
   "devDependencies": {
     "@types/node": "^20.7.0",
-    "@types/react": "^18.2.21",
-    "@types/react-dom": "^18.2.7",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
     "@typescript-eslint/eslint-plugin": "^6.7.0",
     "@typescript-eslint/parser": "^6.7.0",
     "@vitejs/plugin-react": "^4.0.4",
@@ -73,7 +73,7 @@
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.30",
     "tailwindcss": "^3.3.3",
-    "typescript": "^5.2.2",
+    "typescript": "^5.6.2",
     "vite": "^4.4.9"
   }
 }
